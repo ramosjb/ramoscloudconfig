@@ -2,16 +2,3 @@
 
 info:
     description: Training configuration repo
-spring:
- cloud:
-   config:
-     server:
-       git:
-         uri:
-         # ONLY include username and pwd if the repo is private
-         username:
-         password:
-   security:
-        user:
-            name: root
-            password: password
