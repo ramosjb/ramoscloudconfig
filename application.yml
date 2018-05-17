@@ -9,5 +9,5 @@ spring:
          password:
     security:
         user:
-            name: {username}
-            password: {password}
+            name: root
+            password:  password
