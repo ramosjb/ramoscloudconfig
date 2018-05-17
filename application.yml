@@ -11,7 +11,7 @@ spring:
          # ONLY include username and pwd if the repo is private
          username:
          password:
-    security:
+   security:
         user:
             name: root
-            password:  password
+            password: password
